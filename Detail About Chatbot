@@ -1,0 +1,18 @@
+Project: Nexora Company Chatbot
+Developer: Ariff Zakwan 
+Live Link: https://nexora-chatbot.onrender.com 
+
+Features:
+- AI powered chatbot using Groq + Gemini
+- Knows company info, products, contacts
+- Works for both employees and customers
+- Chat history memory
+- Mobile friendly
+
+Technology Used:
+- Python + Flask (Backend)
+- HTML + CSS + JavaScript (Frontend)
+- Groq API (Primary AI)
+- Gemini API (Backup AI)
+- Render.com (Hosting)
+- GitHub (Code repository)
